@@ -88,8 +88,9 @@
     background: #8ea0c6; color: white;
   }
   .results {
-    max-width: 500px;
+    max-width: 100%;
     border: 5px double black;
     padding: 1em;
+    width: 500px;
   }
   
